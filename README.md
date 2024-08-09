@@ -3,6 +3,7 @@ This project demonstrates the creation of a fully automated CI/CD pipeline using
 
 ![image](https://github.com/user-attachments/assets/097c63fa-48e2-492f-9016-6cd003a68218)
 
+# The project include:
   Automated CI Process: Jenkins pulls the latest code, builds a Docker image, and pushes it to Azure Container Registry (ACR) upon each commit.
   
   Automated CD Process: The Docker image is then automatically deployed to Azure App Services, ensuring the latest version of the application is always live.
