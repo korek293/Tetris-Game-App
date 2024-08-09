@@ -16,12 +16,12 @@ After completing all the configurations, the application can be accessed and use
 
 After going to the site, you will be able to see the application window:
 <p align="center">
-  <img src="[your-image-url-here](https://github.com/user-attachments/assets/5cd3d368-1a84-47b0-bb76-a74abbc9413e)">
+  <img src="(https://github.com/user-attachments/assets/5cd3d368-1a84-47b0-bb76-a74abbc9413e)">
 </p>
 
 And you will be able to start the game in your browser:
 <p align="center">
-  <img src="[your-image-url-here](https://github.com/user-attachments/assets/7673aa24-1f06-46a8-a6c3-f608fe2cea89)">
+  <img src="(https://github.com/user-attachments/assets/7673aa24-1f06-46a8-a6c3-f608fe2cea89)">
 </p>
 
 
