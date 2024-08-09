@@ -12,6 +12,13 @@ This project demonstrates the creation of a fully automated CI/CD pipeline using
   
   Scalability: This setup can be easily adapted for different applications or environments, providing a robust foundation for cloud-native CI/CD pipelines.
 
+After completing all the configurations, the application can be accessed and used directly in a browser, reflecting any changes made in the GitHub repository through the automated CI/CD pipeline.
+
+After going to the site, you will be able to see the application window:
+![image](https://github.com/user-attachments/assets/5cd3d368-1a84-47b0-bb76-a74abbc9413e)
+
+And you will be able to start the game in your browser:
+![image](https://github.com/user-attachments/assets/7673aa24-1f06-46a8-a6c3-f608fe2cea89)
 
 
 
